@@ -15,7 +15,7 @@ The Alaythia Project is an open-source initiative dedicated to creating tools th
 
 ## Contributing
 
-We welcome contributions from developers, theologians, historians, and anyone passionate about Bible study. If you're interested in contributing, please check out our `CONTRIBUTING.md` for guidelines on how to get started.
+We welcome contributions from developers, theologians, historians, and anyone passionate about Bible study. If you're interested in contributing, please check out our [`CONTRIBUTING.md`](https://github.com/Alaythia/.github/blob/main/CONTRIBUTING.md) for guidelines on how to get started.
 
 ## License
 

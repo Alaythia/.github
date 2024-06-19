@@ -19,7 +19,7 @@ We welcome contributions from developers, theologians, historians, and anyone pa
 
 ## License
 
-Our tools are available under the MIT License. For more details, see the `LICENSE` file.
+Our tools are available under the MIT License. For more details, see the [`LICENSE`](https://github.com/Alaythia/.github/blob/main/LICENSE) file.
 
 ## Contact Us
 
